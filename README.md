@@ -23,13 +23,5 @@ Files and resources related to Python Bootcamp organized by the [Valsson Researc
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
 
-## Authors and Tutors 
-- Omar Valsson
-- Kriti Alam
-- Shikshya Bhusal
-- Pradip Si
-- Sara Alinejad
-- Logan Estridge
-
 ## Acknowledgements
 This Python Bootcamp is supported by a DOE Early Career Award (BES Condensed Phase and Interfacial Molecular Science (CPIMS) / DE-SC0024283) awarded to Omar Valsson.
