@@ -16,3 +16,6 @@ The Jupyter notebooks for the sessions can be accessed via Google Colab at the f
 - Pradip Si
 - Sara Alinejad
 - Logan Estridge
+
+## Acknowledgements
+This Python Bootcamp is supported by a DOE Early Career Award (BES Condensed Phase and Interfacial Molecular Science (CPIMS) / DE-SC0024283) awarded to Omar Valsson.
