@@ -8,6 +8,7 @@ This Bootcamp is over two sessions:
 
 The Jupyter notebooks for the sessions can be accessed via Google Colab at the following links:
 - [Session 1](https://colab.research.google.com/github/valsson-group/python-bootcamp/blob/main/Summer-2025/Session_1.ipynb)
+- [Session 2](https://colab.research.google.com/github/valsson-group/python-bootcamp/blob/main/Summer-2025/Session_2.ipynb)
 
 ## Authors and Tutors 
 - Omar Valsson
