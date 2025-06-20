@@ -4,7 +4,7 @@ Files and Jupyter notebook for a Python Bootcamp organized by the [Valsson Resea
 
 This Bootcamp is over two sessions: 
 - Session 1 (June 16): Basics of Python: Data types, functions, control flow, handling strings.
-- Session 2 (June 23): Data Analysis and plotting using Python: Numpy, Matplotlib, Seaborn, and Pandas.
+- Session 2 (June 23): Data Analysis and plotting using Python: Numpy, Matplotlib.
 
 The Jupyter notebooks for the sessions can be accessed via Google Colab at the following links:
 - [Session 1](https://colab.research.google.com/github/valsson-group/python-bootcamp/blob/main/Summer-2025/Session_1.ipynb)
