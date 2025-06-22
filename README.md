@@ -17,6 +17,7 @@ Files and resources related to Python Bootcamp organized by the [Valsson Researc
   - [Software Carpentry -- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
   - [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
   - [Think Python, 3rd edition](https://allendowney.github.io/ThinkPython/)
+  - [100 numpy exercises](https://github.com/rougier/numpy-100)
   
 ### Matplotlib and Scientific Visualization 
 - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
