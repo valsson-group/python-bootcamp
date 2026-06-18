@@ -3,7 +3,7 @@
 Files and Jupyter notebook for a Python Bootcamp organized by the [Valsson Research Group](https://www.valsson.info) at UNT in the Summer 2026. 
 
 This Bootcamp is over two sessions: 
-- Session 1 (June 18): Basics of Python: Data types, functions, control flow, handling strings.
+- Session 1 (June 18): Basics of Python, Data types, functions, control flow, matplotlib, and numpy.
 - Session 2 (June 26): Data Analysis and plotting using Python: Numpy, Matplotlib.
 
 The Jupyter notebooks for the sessions can be accessed via Google Colab at the following links:
